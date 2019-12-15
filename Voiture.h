@@ -1,6 +1,8 @@
-
 // Fichier : Voiture.h
-//Raphaël Mahiet
+//MIT Licence 
+//Author : Raphaël Mahiet 
+//Website : designlense.io
+//Hire Me : collaborate@designlense.io
 
 
 // Modélisation de la voiture

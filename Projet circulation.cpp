@@ -1,32 +1,26 @@
-// Projet circulation.cpp†: dÈfinit le point d'entrÈe pour l'application console.
-//
-
-// Raf : attention Visual cpp ‡ supprimer.
-
-// Raf :  fin attention Visual cpp 
+//MIT Licence 
+//Author : Raphaël Mahiet 
+//Website : designlense.io
+//Hire Me : collaborate@designlense.io
 
 #include <iostream>
 #include <fstream>
 #include <sstream>
-
 #include <vector>
 #include <math.h>
-
 #include <stdlib.h>
-
 #include "Route.h" 
 #include "Voiture.h"
-
-
 
 using namespace std ;
 
 const int NB_ROUTE_CELLULES = 79 ;
 
 /*
- * ParamËtres globaux que l'on saisira en dÈbut de programme pour faciliter la mise au point 
+ * Paramètres globaux que l'on saisira en début de programme pour faciliter la mise au point 
  *
  */
+
 struct {
 	int	nVmax	; 
 	int nVinitial; 
@@ -49,8 +43,9 @@ struct {
 
 	
 // AfficheControleTrafic
-//
-//
+
+
+
 void AfficheControleTrafic ( )
 {
   cout <<" " << ControleTrafic.nEtape ; 

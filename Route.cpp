@@ -1,7 +1,10 @@
 
 
 // Fichier : Route.cpp
-// Raphaël MAHIET
+//MIT Licence 
+//Author : Raphaël Mahiet 
+//Website : designlense.io
+//Hire Me : collaborate@designlense.io
 
 
 // La route est divisée en cellule correspondant à la place d'une voiture 

@@ -1,6 +1,9 @@
 
 // fichier : voiture.cpp
-// Raphaël MAHIET
+//MIT Licence 
+//Author : Raphaël Mahiet 
+//Website : designlense.io
+//Hire Me : collaborate@designlense.io
 
 // Hypothèses : la voiture est identifié par son numéro qui joue le rôle de plaque d'immatriculation.
 
